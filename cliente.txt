@@ -1,0 +1,5 @@
+Sistema de registro y consulta de clientes
+
+Funcionalidad:
+-Registrar Clientes
+-Consultar Clientes
